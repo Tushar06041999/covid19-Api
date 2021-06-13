@@ -1,0 +1,22 @@
+body{
+    margin:0px;
+    box-sizing: border-box;
+    font-family: 'Stint Ultra Condensed', cursive;
+}
+
+h1{
+    text-align:center;
+    margin-top:100px;
+    color:rgb(245, 150, 8);
+    font-weight: 900;
+}
+
+.btn{
+    margin-top:100px;
+    width:100%;
+}
+footer{
+    margin-top:150px;
+    text-align:center;
+    color:red;
+}
